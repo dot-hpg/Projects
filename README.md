@@ -1,5 +1,9 @@
 # 🗺 Hari Prasad Guntuku's Projects
 
+## 📚 Table of Contents
+- [Python](#python)
+- [Market Research](#Research)
+
 # Python
 
 | Project Link | Area | Project Description | Libraries |
