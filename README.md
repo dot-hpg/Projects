@@ -9,7 +9,7 @@
 
 | Project Link | Area | Project Description | Tools |
 |---|---|---|---|
-|[Target Brazil SQL Case Study](target-brazil-sql-case-study) | SQL, Business Analytics, Logistics, Customer Satisfaction | End-to-end SQL analysis of 99,441 Target e-commerce orders in Brazil (2016-2018). 30 BigQuery queries cover growth, seasonality, regional demand, freight, delivery and payments. Key findings: order value grew 137% (Jan-Aug 2018 vs 2017) on flat basket size; late orders average 1.7 stars vs 4.3 for early ones; same-state sellers deliver 2x faster with 43% lower freight. Includes a 34-page report, executed notebook, 15 charts and all datasets. | BigQuery SQL, DuckDB, Python, pandas, matplotlib |
+|[Target Brazil SQL Case Study](https://github.com/dot-hpg/target-brazil-sql-case-study) | SQL, Business Analytics, Logistics, Customer Satisfaction | End-to-end SQL analysis of 99,441 Target e-commerce orders in Brazil (2016-2018). 30 BigQuery queries cover growth, seasonality, regional demand, freight, delivery and payments. Key findings: order value grew 137% (Jan-Aug 2018 vs 2017) on flat basket size; late orders average 1.7 stars vs 4.3 for early ones; same-state sellers deliver 2x faster with 43% lower freight. Includes a 34-page report, executed notebook, 15 charts and all datasets. | BigQuery SQL, DuckDB, Python, pandas, matplotlib |
 
 # Python
 

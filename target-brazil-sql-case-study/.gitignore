@@ -1,6 +1,0 @@
-# local database is rebuilt from data/*.csv by scripts/build_db.py
-*.duckdb
-*.duckdb.wal
-__pycache__/
-.ipynb_checkpoints/
-.DS_Store

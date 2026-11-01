@@ -1,9 +1,0 @@
-table_name,row_count,distinct_keys
-geolocation,1000163,19015
-order_items,112650,98666
-payments,103886,99440
-customers,99441,99441
-orders,99441,99441
-order_reviews,99224,98673
-products,32951,32951
-sellers,3095,3095
